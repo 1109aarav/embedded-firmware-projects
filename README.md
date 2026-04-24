@@ -29,6 +29,7 @@ wifi_interference
 
 5 GHz WiFi channel interference analyzer. Parses iw scan output, accumulates signal power using correct dBm→mW→dBm math, outputs normalized interference scores across all UNII band channels.
 
+---
 
 Skills
 Firmware: STM32 HAL Embedded C CAN Bus USB HID I2C SHTP Protocol
